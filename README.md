@@ -1,5 +1,11 @@
 # 💫 About Me:
-I´m currently studiny electronis engeniering in seville and I like to programming and develop my own PCB boards.<br><br>Also I´m a musician and I love read/travel and 3D printing I´m to much into maker world<br>
+👨‍💻 Currently diving into the world of Electronic Engineering in Seville, where I mix creativity with technology. I love programming and developing my own PCB boards, always looking for new ways to bring ideas to life!
+
+🎸 Also a musician by heart, 📚 a book lover, 🌍 an avid traveler, and 🖨️ a 3D printing enthusiast—deeply rooted in the maker world, where imagination turns into reality.
+
+🗣️ Currently learning German 🇩🇪 and Russian 🇷🇺 because I believe every new language is a new adventure!
+
+🚀 This website is the launchpad for my future YouTube channel, where I'll share my projects, passions, and creative journey. It's my way of showing the world who I am and what I do!
 
 
 ## 🌐 Socials:
